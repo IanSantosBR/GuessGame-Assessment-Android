@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Guess Game</string>
+    <string name="top_string">Selecione uma carta</string>
+    <string name="play_again">Jogar novamente</string>
+    <string name="confirm">Confirmar</string>
+</resources>
